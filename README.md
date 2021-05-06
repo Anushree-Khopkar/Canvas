@@ -12,6 +12,6 @@
 
 # Screen Capture
 
-* Following is the screen capture of the image.
+* Following is the screen capture of image.
 
 ![](Images/Image1.png)
